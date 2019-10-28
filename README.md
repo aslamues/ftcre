@@ -1,0 +1,2 @@
+# ieeeftcre
+Technology is fast changing to add more intelligence to the control systems and make the energy sources distributed. The goal of the conference is to bring together researchers and practitioners from academia  and industry to focus on most recent innovations,trends and concerns as well as the practical challenges that the world encounters  and to seek solutions which can be adopted in the day to day life or industry and also futuristic. Areas that cover modelling, simulation and design pertaining to the control and renewable energy will be covered. 
