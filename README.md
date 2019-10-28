@@ -6,8 +6,6 @@
 
 [![Coming Soon Preview](https://startbootstrap.com/assets/img/screenshots/themes/coming-soon.png)](https://blackrockdigital.github.io/startbootstrap-coming-soon/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-coming-soon/)**
-
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-coming-soon/master/LICENSE)
